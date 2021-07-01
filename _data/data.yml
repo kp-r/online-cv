@@ -57,10 +57,7 @@ education:
       university: AMRITA VISHWA VIDYAPEETHAM
       time: 2020 - 2022
       details: |
-        The course provided an ensemble of indepth knowledge in state of the art domains 
-        ranging from IoT, Machine Learning, Principes of Wireless Communication Systems, 
-        Mobile Communication Networks, 5G Small cells, Principles of Virtualization & Software 
-        Defined Networking etc
+        The course provided an ensemble of indepth knowledge in state of the art domains ranging from IoT, Machine Learning, Principes of Wireless Communication Systems, Mobile Communication Networks, 5G Small cells, Principles of Virtualization & Software Defined Networking etc
       
     - degree: M.B.A in Human Resource Management
       university: Indira Gandhi National Open University
@@ -110,7 +107,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+   title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
